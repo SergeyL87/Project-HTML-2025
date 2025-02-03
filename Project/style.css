@@ -374,7 +374,7 @@ input::placeholder {
 
 .MoreArt {
     display: flex;
-    padding: 20px 23px 19px 23px;
+    padding: 20px 23px 20px 23px;
     justify-content: center;
     align-items: center;
     gap: 10px;
@@ -387,7 +387,7 @@ input::placeholder {
     font-weight: 700;
     line-height: normal;
     text-transform: capitalize;
-    margin: 80px 510px;
+    margin: 80px 510px 80px 540px;
 }
 
 
